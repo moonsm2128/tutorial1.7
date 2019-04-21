@@ -1,0 +1,1 @@
+Attempting tutorial in video 1.7 about adding local folders to github repository.
